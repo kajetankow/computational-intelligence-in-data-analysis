@@ -45,7 +45,7 @@ The physical wiring scheme is available in:
 
 ```text
 schemas/schemat.png
-
+```
 ---
 
 ## Source Files
