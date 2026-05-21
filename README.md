@@ -1,4 +1,4 @@
-# computational-intelligence-in-data-analysis# Computational Intelligence in Data Analysis
+# Computational Intelligence in Data Analysis
 
 This repository contains selected academic projects developed as part of the **Computational Intelligence in Data Analysis** course.  
 Each project is placed in a separate directory and includes its own description, notebook, report, figures, and additional source files when needed.
