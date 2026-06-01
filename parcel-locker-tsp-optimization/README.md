@@ -53,7 +53,7 @@ parcel-locker-tsp-optimization/
 ├── reports/
 │   └── Kowalski_Algorytmy_Ewolucyjne.pdf
 └── README.md
-
+```
 ---
 
 ## Environment Setup
@@ -61,7 +61,7 @@ parcel-locker-tsp-optimization/
 The project uses a Conda environment. To recreate it, install Anaconda or Miniconda and run:
 
 ```bash
-git clone git clone https://github.com/kajetankow/computational-intelligence-in-data-analysis.git
+git clone https://github.com/kajetankow/computational-intelligence-in-data-analysis.git
 cd computational-intelligence-in-data-analysis/parcel-locker-tsp-optimization
 conda env create -f environment.yml
 conda activate AlGenIO26
