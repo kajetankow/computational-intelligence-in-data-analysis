@@ -1,0 +1,23 @@
+name: AlGenIO26
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - python=3.11
+  - contextily
+  - geopandas
+  - geopy
+  - imageio
+  - ipykernel
+  - jupyter
+  - matplotlib
+  - networkx
+  - notebook
+  - numba
+  - numpy
+  - osmnx
+  - pandas
+  - scipy
+
